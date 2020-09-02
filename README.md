@@ -4,7 +4,7 @@ The NIST Cyber Supply Chain Risk Management (C-SCRM) Interdependency Tool is a p
 
 The tool is also intended to provide the user greater visibility over the supply chain and the relative importance of particular projects, products, and suppliers (hereafter “nodes”) compared to others. This can be determined by examining the metrics which contribute to a node’s importance such as amount of access a node has to the acquirer’s IT network, physical facilities and data. By understanding which nodes are the most important in their organization’s supply chain, the user can begin to understand the potential impact a disruption of that node may cause on business operations. The user could then prioritize the completion of risk mitigating actions to reduce the impact a disruption would cause to the organization’s supply chain and overall business.
 
-Please see Draft NIST IR 8272 (Not yet published) for more information about this prototype tool.
+Please see NIST IR 8272 at https://csrc.nist.gov/publications/detail/nistir/8272/final for more information about this prototype tool.
 
 ## Target Platforms
 
